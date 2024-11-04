@@ -67,6 +67,3 @@ Press the `Space` key to make the dinosaur jump and avoid obstacles.
 
 This project is for educational and personal use. Feel free to modify it for your own projects.
 
---- 
-
-This README provides a clear overview of the game setup, requirements, and features.
